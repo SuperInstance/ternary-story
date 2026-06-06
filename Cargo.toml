@@ -1,0 +1,9 @@
+[package]
+name = "ternary-story"
+version = "0.1.0"
+edition = "2021"
+description = "Ternary narrative engine — stories where every choice has three paths (-1/0/+1)"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-story"
+
+[dependencies]
